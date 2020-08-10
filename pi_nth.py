@@ -1,4 +1,4 @@
-#This programs calculates pi using the Chudnovsky algorithm to the nth digit enter by the user
+#This program calculates pi using the Chudnovsky algorithm to the nth digit enter by the user
 import numpy as np 
 from decimal import Decimal, getcontext
 
